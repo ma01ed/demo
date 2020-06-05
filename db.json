@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-		name: "Test Store",
+    name: "Test Store",
     username: "user name",
     website: "www.example.com",
     bio: "Dollar Shave Club Dollar Shave Club makes and delivers everything you need to look, feel, and shave like a million bucks— without paying it. Try the Club today.",
