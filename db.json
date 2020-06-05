@@ -22,6 +22,10 @@
   "products": [
     { "id": 1, "name": "Triple S Allover Logo Sneakers", "price": "4,850", "img": "https://elcopcbonline.com/photos/product/112/368/huf-converse-product-red-skidgrip-1.jpg"},
     { "id": 2, "name": "LaMotta aviator-style gold-tone sunglasses", "price": "829", "img": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"},
-    { "id": 3, "name": "Carmello Two-Tone Leather Belt", "price": "460", "img": "https://ounass-prod1.atgcdn.ae/small_light(p=zoom,of=webp)/pub/media/catalog/product/2/1/213595197_brown_in.jpg?1581847482.6377" }
+    { "id": 3, "name": "Carmello Two-Tone Leather Belt", "price": "460", "img": "https://ounass-prod1.atgcdn.ae/small_light(p=zoom,of=webp)/pub/media/catalog/product/2/1/213595197_brown_in.jpg?1581847482.6377" },
+    { "id": 4, "name": "Tom Ford blue", "price": 32, "qty": 1, "img": "https://ounass-prod4.atgcdn.ae/small_light(dw=350,of=webp)/pub/media/catalog/product/2/1/211691994_nocolor_in.jpg?1589969525.4594" },
+    { "id": 5, "name": "Tom Ford white", "price": 32, "qty": 1, "img": "https://ounass-prod2.atgcdn.ae/small_light(dw=350,of=webp)/pub/media/catalog/product/2/1/213615907_nocolor_in.jpg?1590044848.7737" },
+    { "id": 6, "name": "Aesop", "price": 32, "qty": 4, "img": "https://ounass-prod2.atgcdn.ae/small_light(dw=350,of=webp)/pub/media/catalog/product/2/1/211760782_nocolor_in.jpg?1589114817.7083" },
+    { "id": 7, "name": "Yeezy White", "price": 467, "qty": 1, "img": "https://cdn-images.farfetch-contents.com/14/57/27/94/14572794_22281964_1000.jpg" }
   ]
 }
