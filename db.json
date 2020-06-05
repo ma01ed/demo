@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+			{id:'1', name: 'Triple S Allover Logo Sneakers', price: '4,850', img: 'https://elcopcbonline.com/photos/product/112/368/huf-converse-product-red-skidgrip-1.jpg'},
+			{id:'2', name: 'LaMotta aviator-style gold-tone sunglasses', price: '829', img: 'https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60'},
+      {id:'3', name: 'Carmello Two-Tone Leather Belt', price: '460', img: 'https://ounass-prod1.atgcdn.ae/small_light(p=zoom,of=webp)/pub/media/catalog/product/2/1/213595197_brown_in.jpg?1581847482.6377' }
+		]
 }
