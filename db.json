@@ -9,15 +9,15 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    name: "Test Store",
-    username: "user name",
-    website: "www.example.com",
-    bio: "Dollar Shave Club Dollar Shave Club makes and delivers everything you need to look, feel, and shave like a million bucks— without paying it. Try the Club today.",
-    email: "contact@example.com",
-    phone: "+971501234567",
-    address: "21 Cherington St.",
-    category: "Test Category",
-    img: "https://marketplace.canva.com/EADajU8qgeU/1/0/1600w/canva-outlet-clothing-store-profile-picture-s9jGOmVSNjw.jpg"
+    "name": "Test Store",
+    "username": "user name",
+    "website": "www.example.com",
+    "bio": "Dollar Shave Club Dollar Shave Club makes and delivers everything you need to look, feel, and shave like a million bucks— without paying it. Try the Club today.",
+    "email": "contact@example.com",
+    "phone": "+971501234567",
+    "address": "21 Cherington St.",
+    "category": "Test Category",
+    "img": "https://marketplace.canva.com/EADajU8qgeU/1/0/1600w/canva-outlet-clothing-store-profile-picture-s9jGOmVSNjw.jpg"
   },
   "products": [
     { "id": 1, "name": "Triple S Allover Logo Sneakers", "price": "4,850", "img": "https://elcopcbonline.com/photos/product/112/368/huf-converse-product-red-skidgrip-1.jpg"},
