@@ -8,24 +8,35 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "Test Store",
-    "username": "user name",
-    "website": "www.example.com",
-    "bio": "Dollar Shave Club Dollar Shave Club makes and delivers everything you need to look, feel, and shave like a million bucks— without paying it. Try the Club today.",
-    "email": "contact@example.com",
-    "phone": "+971501234567",
-    "address": "21 Cherington St.",
-    "category": "Test Category",
-    "img": "https://marketplace.canva.com/EADajU8qgeU/1/0/1600w/canva-outlet-clothing-store-profile-picture-s9jGOmVSNjw.jpg"
-  },
+	"stores": {
+		"teststore-1": {
+			"name": "Test Store",
+			"website": "www.example.com",
+			"bio": "Dollar Shave Club Dollar Shave Club makes and delivers everything you need to look, feel, and shave like a million bucks— without paying it. Try the Club today.",
+			"email": "contact@example.com",
+			"phone": "+971501234567",
+			"address": "21 Cherington St.",
+			"category": "Test Category",
+			"img": "https://marketplace.canva.com/EADajU8qgeU/1/0/1600w/canva-outlet-clothing-store-profile-picture-s9jGOmVSNjw.jpg"
+		},
+		"teststore-2": {
+			"name": "Test Store",
+			"website": "www.example.com",
+			"bio": "Dollar Shave Club Dollar Shave Club makes and delivers everything you need to look, feel, and shave like a million bucks— without paying it. Try the Club today.",
+			"email": "contact@example.com",
+			"phone": "+971501234567",
+			"address": "21 Cherington St.",
+			"category": "Test Category",
+			"img": "https://marketplace.canva.com/EADajU8qgeU/1/0/1600w/canva-outlet-clothing-store-profile-picture-s9jGOmVSNjw.jpg"
+		}
+	},
   "products": [
-    { "id": 1, "name": "Triple S Allover Logo Sneakers", "price": 2850, "qtyAvailable": 3, "img": "https://elcopcbonline.com/photos/product/112/368/huf-converse-product-red-skidgrip-1.jpg"},
-    { "id": 2, "name": "LaMotta aviator-style gold-tone sunglasses", "price": 829, "qtyAvailable": 2, "img": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"},
-    { "id": 3, "name": "Carmello Two-Tone Leather Belt", "price": 460, "img": "https://ounass-prod1.atgcdn.ae/small_light(p=zoom,of=webp)/pub/media/catalog/product/2/1/213595197_brown_in.jpg?1581847482.6377" },
-    { "id": 4, "name": "Tom Ford blue", "price": 32, "img": "https://ounass-prod4.atgcdn.ae/small_light(dw=350,of=webp)/pub/media/catalog/product/2/1/211691994_nocolor_in.jpg?1589969525.4594" },
-    { "id": 5, "name": "Tom Ford white", "price": 450, "qtyAvailable": 1, "img": "https://ounass-prod2.atgcdn.ae/small_light(dw=350,of=webp)/pub/media/catalog/product/2/1/213615907_nocolor_in.jpg?1590044848.7737" },
-    { "id": 6, "name": "Aesop", "price": 32, "img": "https://ounass-prod2.atgcdn.ae/small_light(dw=350,of=webp)/pub/media/catalog/product/2/1/211760782_nocolor_in.jpg?1589114817.7083" },
-    { "id": 7, "name": "Yeezy White", "price": 467, "qtyAvailable": 10, "img": "https://cdn-images.farfetch-contents.com/14/57/27/94/14572794_22281964_1000.jpg" }
+    { "id": 1, "storeID": "teststore-1", "name": "Cocooil - Organic Coconut Oil", "price": 185, "qtyAvailable": 7, "img": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"},
+    { "id": 2, "storeID": "teststore-1", "name": "Honest Beauty Gel Cleanser", "price": 82, "qtyAvailable": 12, "img": "https://images.unsplash.com/photo-1562885388-e9b4e3720b33?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"},
+    { "id": 3, "storeID": "teststore-1", "name": "I'm Fabulous Body Oil", "price": 210, "img": "https://images.unsplash.com/photo-1532413992378-f169ac26fff0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80" },
+    { "id": 4, "storeID": "teststore-1", "name": "Curology Cleanser", "price": 83, "img": "https://images.unsplash.com/photo-1556228720-195a672e8a03?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60" },
+    { "id": 5, "storeID": "teststore-1", "name": "Mario Badesco Facial Spray", "price": 45, "qtyAvailable": 1, "img": "https://images.unsplash.com/photo-1532086853747-99450c17fa2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" },
+    { "id": 6, "storeID": "teststore-1", "name": "Facial Oil Set", "price": 320, "img": "https://images.unsplash.com/photo-1512437136892-3d200c4645b9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" },
+    { "id": 7, "storeID": "teststore-1", "name": "Therapeautic CBD Skin Balm", "price": 135, "qtyAvailable": 10, "img": "https://images.unsplash.com/photo-1562158467-f89e51f06266?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" }
   ]
 }
